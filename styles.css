@@ -1,6 +1,6 @@
-body { font-family: Arial, sans-serif; line-height: 1.6; max-width: 1000px; margin: 0 auto; padding: 20px; }
-        header { background: #af684c; color: white; padding: 20px; text-align: center; }
+body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.6; max-width: 1000px; margin: 0 auto; padding: 20px; }
+        header { background: #3c90d4; color: white; padding: 20px; text-align: center; }
         nav { background: #333; padding: 10px; }
         nav a { color: white; text-decoration: none; margin: 0 15px; }
         section { padding: 20px; }
-        footer { background: #333; color: white; text-align: center; padding: 10px; }
+        footer { background: #000000; color: white; text-align: center; padding: 10px; }
